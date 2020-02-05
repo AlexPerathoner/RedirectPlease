@@ -1,5 +1,5 @@
 # RedirectPlease
-<img src="https://raw.githubusercontent.com/RedirectPlease/master/RedirectPlease\ Extension/origi.png" align="right"
+<img src="https://raw.githubusercontent.com/RedirectPlease/master/origi.png" align="right"
      title="RedirectPlease by Alexander Perathoner" width="100" height="100">
 Safari extension to redirect safari to your second google account, when using classroom
 
