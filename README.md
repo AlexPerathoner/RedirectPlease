@@ -9,7 +9,7 @@ As the first is no longer supported and the second only works with Tampermonkey 
 
 ## Features
 
-Ever seen this annyoing error message?
+Ever seen this annoying error message?
 
 ![Error Window Classroom](https://raw.githubusercontent.com/AlexPerathoner/RedirectPlease/master/imgs/screen1.png)
 
