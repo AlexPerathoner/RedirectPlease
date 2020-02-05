@@ -1,5 +1,5 @@
 # RedirectPlease
-<img src="https://raw.githubusercontent.com/RedirectPlease/master/origi.png" align="right"
+<img src="https://raw.githubusercontent.com/AlexPerathoner/RedirectPlease/master/origi.png" align="right"
      title="RedirectPlease by Alexander Perathoner" width="100" height="100">
 Safari extension to redirect safari to your second google account, when using classroom
 
@@ -11,7 +11,7 @@ As the first is no longer supported and the second only works with Tampermonkey 
 
 Ever seen this annyoing error message?
 
-![Welcome Window](https://raw.githubusercontent.com/RedirectPlease/master/imgs/screen1.png)
+![Error Window Classroom](https://raw.githubusercontent.com/AlexPerathoner/RedirectPlease/master/imgs/screen1.png)
 
 RedirectPlease will redirect you to the same page, but using your second account.<sup>[1](#note1)</sup>
 
