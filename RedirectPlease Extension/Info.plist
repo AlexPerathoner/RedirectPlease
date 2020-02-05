@@ -42,7 +42,7 @@
 			<key>Identifier</key>
 			<string>Button</string>
 			<key>Image</key>
-			<string>ToolbarItemIcon.pdf</string>
+			<string>origi.png</string>
 			<key>Label</key>
 			<string>Your Button</string>
 		</dict>
@@ -50,7 +50,7 @@
 		<dict>
 			<key>Allowed Domains</key>
 			<array>
-				<string>*.webkit.org</string>
+				<string>classroom.google.com</string>
 			</array>
 			<key>Level</key>
 			<string>Some</string>
@@ -59,6 +59,6 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2020 Alex Perathoner. All rights reserved.</string>
 	<key>NSHumanReadableDescription</key>
-	<string>This is a Safari Extension. You should tell us what your extension does here.</string>
+	<string>Multiple Google accounts? Classroom not working? Redirect please!</string>
 </dict>
 </plist>
